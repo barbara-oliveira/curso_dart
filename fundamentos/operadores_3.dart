@@ -1,5 +1,3 @@
-import 'dart:_internal';
-
 main() {
   int a = 3;
   int b = 4;
